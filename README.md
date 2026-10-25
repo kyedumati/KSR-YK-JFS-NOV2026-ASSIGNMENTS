@@ -4,7 +4,7 @@ Java Full Stack, November 2026. This repo is only for **assignment submissions**
 
 Class code that the trainer types live is a different repo. Do not put class notes or the trainer's programs here.
 
-The batch can read this repo. People outside the batch cannot. You submit by opening a pull request, then pasting that link into PAMS.
+This repo is public, so anyone can read it. You submit by opening a pull request, then pasting that link into PAMS. A direct push to `main` is rejected.
 
 ## Submit an assignment
 
@@ -49,6 +49,6 @@ The batch can read this repo. People outside the batch cannot. You submit by ope
 ## Trainer
 
 - Students are collaborators with **Write**. Only the trainer is an admin.
-- `main` requires a pull request. The trainer can still push the brief and this README.
+- `main` requires a pull request. Direct pushes are blocked for students. The trainer can still push the brief and this README.
 - Marking happens in PAMS. Merging the pull request puts the work on `main` so the batch can read it.
 - A pull request that changes files outside `students/<their-login>/<task-slug>/` goes back to the student.
