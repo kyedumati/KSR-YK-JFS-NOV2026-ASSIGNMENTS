@@ -1,0 +1,16 @@
+# Java build output
+*.class
+target/
+out/
+*.jar
+*.war
+
+# IDE and OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Secrets and local env
+.env
+*.log
